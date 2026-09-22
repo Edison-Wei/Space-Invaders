@@ -1,5 +1,5 @@
 # Space Invaders
-This repository will house my attempt to develop a clone of Space Invaders in C++ with the help of GLEW and GLFW
+This repository is a clone of Space Invaders in C++ with the help of GLEW and GLFW
 GLEW to support runtime acceleration and cross-platform compatibility, while GLFW will help to render the Graphical user interface and events.
 
 Some goals for creating Space Invaders:
@@ -7,8 +7,6 @@ Some goals for creating Space Invaders:
 - Have a cross-platform compatible graphical interface that is easy to learn and use
 - Design and develop player, bullet, and alien sprites and further add behaviours to each
 - Have no memory leaks, when constructing a buffer system that handles all the game components
-
-### Note: I moved this project from [here](https://github.com/Edison-Wei/Pong) with commits from March 17th - March 20th
 
 ## Setup
 1. To begin, download or clone this repository on your local machine. (I am using a Mac with homebrew to keep packages structured)
